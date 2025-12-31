@@ -1,2 +1,64 @@
-# Hussaim
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Happy New Year</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body{
+    margin:0;
+    height:100vh;
+    background:#ff5f7e;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family:Arial, sans-serif;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    text-align:center;
+    width:90%;
+    max-width:350px;
+}
+
+h1{
+    color:#ff5f7e;
+}
+
+p{
+    font-size:16px;
+    color:#333;
+}
+
+button{
+    margin-top:15px;
+    padding:10px 20px;
+    background:#ff5f7e;
+    color:white;
+    border:none;
+    border-radius:20px;
+    font-size:16px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+    <h1>🎉 Happy New Year 🎉</h1>
+    <p>
+        Is naye saal mein meri ek hi dua hai 💖  
+        Tum hamesha khush raho aur muskurati raho ✨
+    </p>
+    <button onclick="alert('💖 Tum bohot special ho 💖')">
+        Click Me
+    </button>
+</div>
+
+</body>
+</html># Hussaim
 New year
